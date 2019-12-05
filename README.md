@@ -1,4 +1,3 @@
-# Hello-World
-a new repository
+#Google Code In- Printing Hello World
 
 print("Hello World")
